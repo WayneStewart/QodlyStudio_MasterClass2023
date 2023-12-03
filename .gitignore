@@ -15,6 +15,14 @@
 *.4DD
 
 #--------------------------------
+# Ignore backups
+#--------------------------------
+*.4BK
+*.4BL
+backupHistory.json
+Backups/
+
+#--------------------------------
 # Ignore derived data
 #--------------------------------
 Project/DerivedData/
