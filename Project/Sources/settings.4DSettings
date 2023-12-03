@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><preferences stamp="42">
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="44">
 	<com.4d>
 		<database>
 			<cache adaptative="false" flush_buffer_delay="20s" size_fixed="3000"/>
@@ -23,9 +23,9 @@
 				<options publication_name="carRenting" use_legacy_network_layer="false"/>
 			</network>
 		</server>
-		<general startup_environnement="0"/>
+		<general allow_user_settings="true" startup_environnement="0"/>
 		<compiler>
-			<options compilation_path="3"/>
+			<options compilation_path="3" target="all"/>
 		</compiler>
 	</com.4d>
 </preferences>
